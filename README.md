@@ -12,3 +12,4 @@ Spits out random quotes daily from ClaudeRouelle
   . index.js
   . quotes.txt
   to to the directory.
+- Edit index.js token and channel ID

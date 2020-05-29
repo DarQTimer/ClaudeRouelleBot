@@ -8,8 +8,5 @@ Spits out random quotes daily from ClaudeRouelle
 - Make directory for the bot: mk NAME_OF_DIRECTORY
 - set up json file and use defaults: npm init
 - Install discord.js: npm install discord.js --save
-- copy:
-  . index.js
-  . quotes.txt
-  to to the directory.
+- copy: index.js and quotes.txt to to the directory.
 - Edit index.js token and channel ID

@@ -1,7 +1,7 @@
 // Set up discord bot settings:
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'NjkzMDY2NDczMDc3MjExMTc4.XoBeRQ.NRq8_MXICQ5ORsmM2Ghub3RkWo4';
+const token = '';
 const version = '1.0.0'
 
 // Global varibles that are settings for the bot

@@ -1,7 +1,7 @@
 // Set up discord bot settings:
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = '';
+const token = ''; // EDIT THIS
 const version = '1.0.0'
 
 // Global varibles that are settings for the bot
@@ -11,7 +11,7 @@ var text = fs.readFileSync("./quotes.txt", "utf-8");
 var textByLine = text.split("\n")
 
 const PREFIX = '/';
-var channel_ID = '691206205925883916'
+var channel_ID = '' // EDIT THIS
 
 // Set the schedule for daily annoucement
 var schedule = require('node-schedule');

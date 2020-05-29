@@ -5,7 +5,7 @@ Spits out random quotes daily from ClaudeRouelle
 - node.js
 
 # Installation
-- Make directory for the bot: mk NAME_OF_DIRECTORY
+- Make directory for the bot: mk ClaudeRouelleBot
 - set up json file and use defaults: npm init
 - Install discord.js: npm install discord.js --save
 - copy: index.js and quotes.txt to to the directory.
